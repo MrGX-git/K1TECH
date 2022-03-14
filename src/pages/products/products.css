@@ -1,0 +1,18 @@
+
+.sect-size {
+    max-width: 1430px;
+    width: 100%;
+    margin: 10px auto;
+    background-color: #F4F6F6;
+}
+.card-body {
+    height: 210px;
+}
+.card-size {
+    max-width: 360px;
+    width: 100%;
+    margin: 20px auto;
+}
+.image-size {
+    height: 220px;
+}

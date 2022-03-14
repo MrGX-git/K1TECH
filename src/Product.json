@@ -1,0 +1,128 @@
+[
+    {
+        "price": 100,
+        "brend": "K1",
+        "category": "PC",
+        "model": "G5420",
+        "processor": "Intel Pentium",
+        "name": "ASUS",
+        "motherBoard": "PRIME H310M-K",
+        "hdd": 250,
+        "ram": 8,
+        "stock": false
+    },
+    {
+        "price": 100,
+        "brend": "K1",
+        "category": "PC",
+        "model": "9100",
+        "processor": "Intel Core I3",
+        "name": "ASUS",
+        "motherBoard": "PRIME H310M-K",
+        "hdd": 250,
+        "ram": 8,
+        "stock": false
+    },
+    {
+        "price": 100,
+        "brend": "K1",
+        "category": "PC",
+        "model": "G5420",
+        "processor": "Intel Pentium",
+        "name": "GIGABYT",
+        "motherBoard": "H410M",
+        "hdd": 250,
+        "ram": 8,
+        "stock": false
+    },
+    {
+        "price": 100,
+        "brend": "HP",
+        "category": "PC",
+        "model": "J3060",
+        "processor": "Intel Celeron",
+        "name": "Slimline",
+        "motherBoard": "Z0L89EA",
+        "hdd": 500,
+        "ram": 4,
+        "stock": false
+    },
+    {
+        "price": 100,
+        "brend": "HP",
+        "category": "PC",
+        "model": "10700",
+        "processor": "Intel i7",
+        "name": "123P6EA",
+        "motherBoard": "Z0L89EA",
+        "hdd": 256,
+        "ram": 8,
+        "stock": false
+    },
+    {
+        "price": 100,
+        "brend": "HP",
+        "category": "All in One",
+        "model": "G6400",
+        "processor": "Intel Pentium",
+        "name": "J5040",
+        "motherBoard": "200 G4",
+        "hdd": 1,
+        "ram": 4,
+        "stock": false
+    },
+    {
+        "price": 100,
+        "brend": "Microsoft",
+        "category": "კონსოლი",
+        "model": "Series S",
+        "name": "Xbox",
+        "color": "Digital White",
+        "stock": false
+    },
+    {
+        "price": 100,
+        "brend": "HyperX",
+        "category": "Duo Controller Station",
+        "model": "PS4",
+        "name": "ChargePlay",
+        "stock": false
+    },
+    {
+        "discount": 79,
+        "price": 59,
+        "brend": "2E Gaming",
+        "category": "კლავიატურა",
+        "model": "KG310",
+        "name": "Kaiboard",
+        "stock": true
+    },
+    {
+        "discount": 329,
+        "price": 399,
+        "brend": "Edifier Studio",
+        "category": "დინამიკები",
+        "model": "R1280T",
+        "name": "Powerful Bookshelf",
+        "stock": true
+    },
+    {
+        "discount": 549,
+        "price": 499,
+        "brend": "Intel",
+        "category": "Processor",
+        "model": "10100",
+        "name": "Core i3",
+        "stock": true
+    },
+    {
+        "discount": 119,
+        "price": 139,
+        "brend": "Kingston",
+        "category": "M.2",
+        "model": "SA400M8",
+        "size": 120,
+        "name": "SSD",
+        "stock": true
+    }
+]
